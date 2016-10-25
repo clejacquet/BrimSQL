@@ -1,8 +1,8 @@
 # BrimSQL
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/BrimSQL`. To experiment with that code, run `bin/console` for an interactive prompt.
+*For the moment, it's just a study project to learn a few things about Ruby and gem building, with all the tool suite related to Ruby (as Rake, RSpec, ...)*
 
-TODO: Delete this and the text above, and describe your gem
+A simple (and far from being optimized) in-memory relational DBMS written in Ruby
 
 ## Installation
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/BrimSQL. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/clejacquet/BrimSQL. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
