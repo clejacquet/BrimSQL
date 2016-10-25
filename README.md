@@ -1,4 +1,6 @@
-# BrimSQL
+# BrimSQL 
+
+![Travis build](https://travis-ci.org/clejacquet/BrimSQL.svg?branch=master)
 
 *For the moment, it's just a study project to learn a few things about Ruby and gem building, with all the tool suite related to Ruby (as Rake, RSpec, ...)*
 
